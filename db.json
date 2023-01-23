@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1671996047166",
+      "name": "Şeker",
+      "surname": "Akgul",
+      "studentClass": "4/C",
+      "schoolName": "Çankaya İlkokulu",
+      "studentNo": "101"
+    },
+    {
+      "id": "1671996058316",
+      "name": "Mina",
+      "surname": "Akgul",
+      "studentClass": "4/A",
+      "schoolName": "Çankaya İlkokulu",
+      "studentNo": "102"
+    },
+    {
+      "id": "1673434977248",
+      "name": "Bırıl",
+      "surname": "Akgul",
+      "studentNo": "100",
+      "studentClass": "4/A",
+      "schoolName": "Çankaya İlkokulu"
+    }
+  ]
+}
